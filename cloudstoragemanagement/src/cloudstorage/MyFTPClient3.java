@@ -18,7 +18,7 @@ public class MyFTPClient3 {
         
         public MyFTPClient3()
         {
-            boolean status=ftpConnect("ftp.drivehq.com","23mcar0051@jainuniversity.ac.in","Miniproject@123",0);
+            boolean status=ftpConnect("ftp.drivehq.com","email@gmail.com","password",0);
 		if (status==true)
 		{
 			
