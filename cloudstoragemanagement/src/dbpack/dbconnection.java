@@ -25,7 +25,7 @@ public class dbconnection
         {
             Class.forName("com.mysql.jdbc.Driver");
 //            con=DriverManager.getConnection("jdbc:mysql://localhost:3306/cloudstorage","root","root");
-            con=DriverManager.getConnection("jdbc:mysql://192.168.127.123:3306/cloudstorage","root","root");
+            con=DriverManager.getConnection("jdbc:mysql://cms system ip:3306/cloudstorage","root","root");
         }
         catch(Exception e)
         {
