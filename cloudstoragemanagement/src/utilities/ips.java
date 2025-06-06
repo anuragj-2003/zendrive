@@ -15,9 +15,9 @@ public class ips
 //    public static String storage1ip="localhost";
 //    public static String storage2ip="localhost";
 //    public static String storage3ip="localhost";
-    public static String cmsip="192.168.127.123";
-    public static String storage1ip="192.168.127.23";
-    public static String storage2ip="192.168.127.23";
-    public static String storage3ip="192.168.127.23";
+    public static String cmsip="CMS System IP";
+    public static String storage1ip="Storage1 IP";
+    public static String storage2ip="Storage2 IP";
+    public static String storage3ip="Storage3 IP";
     
 }
