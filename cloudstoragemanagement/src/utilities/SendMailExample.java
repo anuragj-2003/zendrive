@@ -17,7 +17,7 @@ public class SendMailExample {
 		// Recipient's email ID needs to be mentioned.
             String reply="FAILED";
             
-			String sender_email = "codebigtechnologies@gmail.com";
+			String sender_email = "email@gmail.com";
 		//	String sender_password = "your password";
 			String sender_host = "smtp.gmail.com";
 			String sender_port = "465";
