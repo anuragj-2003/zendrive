@@ -88,8 +88,8 @@ public class SendMailExample {
 }
 class SMTPAuthenticator extends javax.mail.Authenticator
 {
-	String sender_email = "codebigtechnologies@gmail.com",
-			sender_password = "mogipljufmivojey";
+	String sender_email = "email@gmail.com",
+			sender_password = "password";
 	public PasswordAuthentication getPasswordAuthentication()
 	{
 			return new PasswordAuthentication(sender_email, sender_password);
